@@ -1,0 +1,2667 @@
+
+/* İPHONE SE */
+@media screen and (min-width:375px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:145px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:63px;
+        height: 52px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:355px;
+        left:15px;
+        top: 150px;
+        height: 80px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 90px;
+    }
+    .menu-li{
+        float: left;
+        font-size:small;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 6px 20px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:355px;
+        height: 160px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:110px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:65px;
+        width: 110px;
+        height: 95px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:450px;
+        left:4%;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:240px;
+        height: 260px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:490px;
+        left:50px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:715px;
+        left:25px;
+        right: 200px;
+        right:620px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:170px;
+        left:5px;
+        float: center;
+        right:875px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:170px;
+        left:137px;
+        float: center;
+        right: 745px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:170px;
+        left:270px;
+        float: center;
+        right: 605px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:355px;
+      margin-top: 400px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 375px;
+        position: absolute;
+        top: 1470px;
+        height: 280px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top: 60px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 28px -8px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+
+/* İPHONE XR */
+@media screen and (min-width:414px){
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:170px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:63px;
+        height: 52px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:465px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:large;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 8px 48px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:460px;
+        height: 300px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:145px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 145px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:535px;
+        left:4%;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:330px;
+        height: 345px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:574px;
+        left:52px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:878px;
+        left:60px;
+        right:548px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:x-large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:830px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:x-large;
+        top:255px;
+        left:164px;
+        float: center;
+        right: 690px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:x-large;
+        top:255px;
+        left:335px;
+        float: center;
+        right: 525px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:460px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 480px;
+        position: absolute;
+        top: 1743px;
+        height: 280px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top: 60px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 28px -8px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+
+/* İPHONE 12 PRO */
+@media screen and (min-width:390px){
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:353px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:small;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:350px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:113px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 100px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:4%;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:19px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:8px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:130px;
+        float: center;
+        right: 754px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:254px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:350px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 375px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+
+/* PİXEL 5*/
+@media screen and (min-width:393px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:353px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:small;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:350px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:113px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 100px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:4%;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:19px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:8px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:130px;
+        float: center;
+        right: 754px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:254px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:350px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 375px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* GALAXY S8+ */
+@media screen and (min-width:360px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:353px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:small;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:350px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:113px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 100px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:4%;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:19px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:8px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:130px;
+        float: center;
+        right: 754px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:254px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:350px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 375px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* GALAXY S20 ULTRA */
+@media screen and (min-width:412px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:353px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:small;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:350px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:113px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 100px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:4%;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:19px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:8px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:130px;
+        float: center;
+        right: 754px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:254px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:350px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 375px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* İPAD AİR */
+@media screen and (min-width:820px){
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:353px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:small;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:350px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:113px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 100px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:19px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:8px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:130px;
+        float: center;
+        right: 754px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:254px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:350px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 375px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+
+/* İPAD MİNİ */
+@media screen and (min-width:768px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:370px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:medium;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:370px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:120px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 112px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:40px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:60px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:145px;
+        float: center;
+        right: 740px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:278px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:380px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 390px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* SURFACE PRO 7  */
+@media screen and (min-width:912px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:370px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:medium;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:370px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:120px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 112px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:40px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:60px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:145px;
+        float: center;
+        right: 740px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:278px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:380px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 390px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+
+/* SURFACE DUO */
+@media screen and (min-width:540px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:385px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:large;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:382px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:120px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 122px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:40px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:60px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:145px;
+        float: center;
+        right: 740px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:278px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:380px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 390px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* GALAXY  FOLD */
+@media screen and (min-width:280px){
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:370px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:medium;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:370px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:120px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 112px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:40px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:60px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:145px;
+        float: center;
+        right: 740px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:278px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:380px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 390px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* SAMSUNG GALAXY S51/71 */
+@media screen and (min-width:412px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:370px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:medium;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:370px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:120px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 112px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:40px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:60px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:145px;
+        float: center;
+        right: 740px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:278px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:380px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 390px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* NEST HUB */
+@media screen and (min-width:1024px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:126px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:370px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:medium;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:370px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:120px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 112px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:40px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:60px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:145px;
+        float: center;
+        right: 740px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:278px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:380px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 390px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
+/* NEST HUB MAX */
+@media screen and(min-width:800px) {
+
+    .yazi{
+      visibility: visible;
+      position: absolute;
+      top:80px;
+      font-size:xx-large;
+      color:rgba(3, 39, 22, 0.753);
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+      left:170px;
+    }
+    .logo{
+        width:0%;
+        height: 0%;
+    }
+    .logo-2{
+        width:104px;
+        height: 101px;
+    }
+
+    .menu-ul {
+    
+        list-style-type: none;
+        margin: 0;
+        padding:0;
+        overflow: hidden;
+        background-color: rgba(3, 39, 22, 0.753);
+        position: -webkit-sticky;
+        position: sticky;
+        position: absolute;
+        width:465px;
+        left:15px;
+        top: 150px;
+        height: 126px;  
+    }
+    
+    .menu-li a:hover{
+        background-color: rgba(0, 3, 2, 0.753);
+        height: 20px;
+        width: 80px;
+    }
+    .menu-li{
+        float: left;
+        font-size:medium;
+    }
+    .menu-li a{ /* li tag lerimiz içindeki a href lerimiz*/
+        display: block;
+        color : white;
+        text-align: center;
+        padding: 12px 25px;
+        text-decoration: none;
+    }
+
+    /* .menu-ul{
+        width:15%;
+        height: 15%;
+    } */
+    .anadiv{
+        margin:0;
+        width:90px;
+        position: absolute;
+        top:250px;
+        left: 8px;;
+        right: 8px;
+    }
+    .banner{
+        width:465px;
+        height: 215px;
+        position: absolute;
+        margin-top: 50px;
+        left:8px;
+    } 
+ 
+    /* .uc-img{
+        text-align: left;
+    } */
+    .uc-bolum{
+        float:left;
+        font-size: larger;
+        width:120px;
+        border:-10px solid transparent;
+        color:black;
+        
+    }
+    .img-size{
+        margin-top:135px;
+        width: 112px;
+        height: 127px;
+        border:-100px solid transparent;
+    }
+    .uc-bolum-anadiv{
+        margin:0;
+        width:970px;
+        position: absolute;
+        top:424px;
+        left:10px;
+    }   
+    .uc-bolum-alt{
+        float:left;
+        font-size: larger;
+        width:284px;
+        height: 263px;
+        border:2px solid transparent;
+        color:black;
+        position: absolute;
+        top:548px;
+        left:40px;
+    }
+    .yan-cumle{
+        position: absolute;
+        margin-top:100px;
+        font-size: x-large;
+        top:794px;
+        left:60px;
+        right:634px;
+    }
+    .yan-cumle-1{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:12px;
+        float: center;
+        right:860px;
+        
+    }
+    .yan-cumle-2{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:145px;
+        float: center;
+        right: 740px;;
+        
+    }
+    .yan-cumle-3{
+        position: absolute;
+        font-size:large;
+        top:255px;
+        left:278px;
+        float: center;
+        right: 620px;
+        
+    }
+    .cizgi{
+        border-top:double 20px rgba(1, 20, 11, 0.753);
+        /*margin:270px 100px;*/
+        width:380px;
+      margin-top: 474px;
+      
+    }    
+    .footer{
+        background: rgba(1, 20, 11, 0.753);
+        width: 390px;
+        position: absolute;
+        top: 1552px;
+        height: 626px;
+        float:left;
+        color:white;
+    }
+    .footer-container{
+        position: absolute;
+        left:10px;
+        width: 760px;
+        height: 700px;
+        margin: 30px auto;
+    }
+    #kutu{
+        /* width:10px;
+        height: 200px; */
+        margin-top:164px;
+        float: center;
+        margin-left: 46px;
+    }
+    .kutu-ul{
+        list-style-type: none;
+        margin: 48px -5px;
+        padding: -10px;
+        position:absolute;
+        
+    }
+    .kutu-ul li a{
+        float: left;
+        font-family: tahoma;
+        font-size: 10px;
+        margin-bottom: 8px;
+        clear: left;
+        color:white;
+    }
+}
